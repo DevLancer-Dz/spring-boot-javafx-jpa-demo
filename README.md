@@ -8,5 +8,12 @@
 
 ![Screenshot](images/carbon2.png)
 
+# adding jfoenix dependency
+
+![Screenshot](images/carbon3.png)
+
+
+![Screenshot](images/jfoenix.jpg)
+
 
 
